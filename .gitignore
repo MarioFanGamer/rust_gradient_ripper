@@ -1,0 +1,4 @@
+/target
+/.vscode
+.asm			# Ignore most ASM codes...
+!hdma_macros.asm	# ... but still include hdma_macros.asm
